@@ -14,7 +14,7 @@ For measurement with eBPF, the PID of the target application is identified. With
 ## Result
 The latency recorded with and without eBPF revealed a mean time of 8.389ms and 7.681ms, respectively.
 
-![alt text](https://github.com/faizfrds/xdn-ebpf/Time%20(ms)%20vs.%20Approach.png?raw=true)
+![alt text](https://github.com/faizfrds/xdn-ebpf/blob/main/Time%20(ms)%20vs.%20Approach.png?raw=true)
 
 ## Conclusion
 
