@@ -19,6 +19,6 @@ The latency recorded with and without eBPF revealed a mean time of 8.389ms and 7
 
 ## Conclusion
 
-The measured times demonstrated an overhead of 0.708ms. This result brings us a step closer to uncovering the possible edge approach in CDNs. With the sub-millisecond overhead, it gives great confidence in the research that edge approaches in CDN is not too distant.
+The measured times demonstrated an overhead of 0.708ms. Relative to other approaches, this result gives a low result. Although it is not the lowest, a sub-millisecond result is still quite outstanding and is enough to encourage further research of eBPF approaches to edge computing. This result brings us a step closer to uncovering the possible edge approach in CDNs. With the sub-millisecond overhead, it gives great confidence in the research that edge approaches in CDN is not too distant.
 
 
